@@ -60,7 +60,7 @@ class StackExample
             return;
         }
 
-        string stackContent = "현재 스택: ";
+        string stackContent = "현재 스택 : ";
         Node current = top;
 
         while (current != null)

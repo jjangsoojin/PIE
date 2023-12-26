@@ -396,3 +396,4 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+/Chapter4_02/Chapter4_02/Exam_02.cs

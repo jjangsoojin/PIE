@@ -12,7 +12,6 @@ namespace Chapter05_06
         {
             Class1 class1 = new Class1();
 
-
             Node root = new Node(6);
             root.Left = new Node(4);
             root.Left.Left = new Node(2);

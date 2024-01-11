@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-namespace Chapter05_06
+
+namespace Chapter5_06
 {
     public class Node
     {
